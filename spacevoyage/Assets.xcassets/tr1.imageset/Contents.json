@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "18-june-1966-astronaut-michael-collins-prime-crew-pilot-for-the-gemini-10-spaceflight-sits-in-static-article-5-during-water-egress-training-activity-onboard-the-nasa-motor-vessel-retriever-2BTD54F.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
