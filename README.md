@@ -18,6 +18,10 @@ Welcome to the future of space travel booking! Whether you're looking to take a 
 
 Get a visual overview of the Space Travel Booking App by watching our photo and video presentation. 
 
+For a detailed overview of our project, check out our documentation:
+
+[View the PDF Documentation](/video/Space Voyage App.pdf)
+
 ### Photos 
 
 <div style="display: flex; justify-content: space-between;">
