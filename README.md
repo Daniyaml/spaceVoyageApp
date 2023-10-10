@@ -22,6 +22,8 @@ For a detailed overview of our project, check out our documentation:
 
 [View the PDF Documentation](/video/SpaceVoyageApp.pdf)
 
+[Download Presentation slides on Google Drive ](https://drive.google.com/file/d/1i4RVlWP111oqBnH4hI0VlzDK9QjgXN7v/view?usp=sharing)
+
 ### Photos 
 
 <div style="display: flex; justify-content: space-between;">
